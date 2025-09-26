@@ -1,0 +1,11 @@
+
+CLEANING REPORT
+---------------
+Rows before: 1119
+Rows after : 1100
+Dropped rows: 19 (1.70%)
+
+Columns before: 21
+Columns after : 21
+
+Duplicates removed (pre-drop): 11
